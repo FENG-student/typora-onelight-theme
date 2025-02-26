@@ -59,31 +59,27 @@
 
 ---
 
-## **2. How to Use**  
+## **2. How to Use**
+
+### 2.1 Download (Recommended)
 
 > [!important]  
 >  
-> **Recommended**  
->  
 > - Download the [theme file zip package](https://github.com/caolib/typora-onelight-theme/releases)  
-> - In Typora, go to **File → Preferences → Appearance → Open Theme Folder**  
+>  - In Typora, go to **File → Preferences → Appearance → Open Theme Folder**  
 > - Extract the downloaded zip package, then paste the **CSS files** and **folder** into Typora's theme folder  
-> - Restart Typora, then switch the theme from the menu bar, and you're all set!  
+> - Restart Typora, then switch the theme from the menu bar, and you're all set!
+
+### 2.2 Clone
 
 
 > [!caution]  
 >  
-> - **If you want to clone this repository and avoid cloning other branches, use the following command. This will only clone the main branch:**  
+> **If you want to clone this repository and avoid cloning other branches, use the following command. This will only clone the main branch:**  
 >  
->   ```shell  
->   git clone --single-branch https://github.com/caolib/typora-onelight-theme.git  
->   ```
->  
-> - If you want to import from the web:  
->  
->   ```css  
->   @import url("https://cdn.jsdelivr.net/gh/caolib/typora-onelight-theme@onelight/dist/onelight.min.css");  
->   ```
+> ```shell  
+> git clone --single-branch https://github.com/caolib/typora-onelight-theme.git
+> ```
 
 ---
 
@@ -112,23 +108,11 @@ The default font is set at the beginning of the file`onelight.css`, and you can 
 > }  
 > ```
 >  
-> <img src="https://s2.loli.net/2024/12/15/Fn6LcrKWC2dlp1J.gif" alt="recording" style="zoom: 50%;" />  
+> <img src="https://s2.loli.net/2024/12/15/Fn6LcrKWC2dlp1J.gif" alt="recording" style="zoom: 50%;" />
 
 ---
 
-## 5.Extra configuration
-
-> [!tip] 
->
-> [typora-community-plugin](https://github.com/Typora-community-plugin/Typora-community-plugin) is a community plugin system to enhance the editing experience of Typora. You can install some plugins through this plugin system, such as adding a copy button to the code block. Please refer to the official instructions for specific installation.
->
-> ![recording](https://s2.loli.net/2025/01/20/Fw36IH7otOaCfDW.gif)
->
-> If you use this plugin system and install this copy button plugin, you can download the file [onelight.user.css](https://github.com/caolib/typora-onelight-theme/blob/onelight/onelight.user.css) and paste it into the theme folder. This file contains some styles for this plugin, and of course you can modify it yourself.
-
----
-
-## 6. Others
+## 5. Others
 
 <img align='right' src="https://s2.loli.net/2025/01/04/zt7O3daMLDC5EHW.png" alt="Like" />✅ The theme looks better in integrated mode.  
 
@@ -140,5 +124,5 @@ The default font is set at the beginning of the file`onelight.css`, and you can 
 
 🖼️ The [img](https://github.com/caolib/typora-onelight-theme/tree/onelight/onelight/img) folder contains background images for the theme. You can replace them with any image you like, or delete them if not needed.  
 
-[translated by ChatGpt]
+[translated by ChatGPT]
 

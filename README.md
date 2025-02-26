@@ -58,34 +58,29 @@
   <img src="https://s2.loli.net/2025/01/08/QF2UA9zPOW5X6ji.png"></br>
 </details>
 
+
 ---
 
 ## 2.如何使用
 
+### 2.1 下载文件（推荐）
+
 > [!important]
 >
-> **推荐**
->
 > - 下载 [主题文件压缩包](https://github.com/caolib/typora-onelight-theme/releases)
-> - 在typora中选择 文件 → 偏好设置 → 外观 → 打开主题文件夹
+>- 在typora中选择 文件 → 偏好设置 → 外观 → 打开主题文件夹
 > - 将下载的压缩包解压，将**css文件**和**文件夹**粘贴到typora的主题文件夹中
 > - 重启Typora然后在菜单栏切换主题，大功告成
 
-
+### 2.2 克隆
 
 > [!caution]
 >
-> - **如果你想克隆本仓库，为了避免克隆到其他分支，请使用下面这条命令,这样只会克隆主分支**
+> **如果你想克隆本仓库，为了避免克隆到其他分支，请使用下面这条命令,这样只会克隆主分支**
 >
->   ```shell
->   git clone --single-branch https://github.com/caolib/typora-onelight-theme.git
->   ```
->
-> - 如果你想从网络导入
->
->   ```css
->   @import url("https://cdn.jsdelivr.net/gh/caolib/typora-onelight-theme@onelight/dist/onelight.min.css");
->   ```
+> ```shell
+> git clone --single-branch https://github.com/caolib/typora-onelight-theme.git
+> ```
 
 ---
 
@@ -115,24 +110,10 @@
 > ```
 >
 > <img src="https://s2.loli.net/2024/12/15/Fn6LcrKWC2dlp1J.gif" alt="recording" style="zoom: 50%;" />
->
-> 
 
 ---
 
-## 5.额外配置
-
-> [!tip] 
->
-> [typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin)是一个增强 Typora 编辑体验的社区插件系统，你可以通过这个插件系统安装一些插件，比如给代码块添加一个复制按钮，具体安装可以参考官方说明
->
-> ![recording](https://s2.loli.net/2025/01/20/Fw36IH7otOaCfDW.gif)
->
-> 如果你使用这个插件系统并且安装了这个复制按钮插件的话，可以下载[onelight.user.css](https://github.com/caolib/typora-onelight-theme/blob/onelight/onelight.user.css)文件粘贴到主题文件夹，这个文件中有一些针对这个插件的样式，当然你也可以自行修改
-
----
-
-## 6.其他
+## 5.其他
 
 <img align='right' src="https://s2.loli.net/2025/01/04/zt7O3daMLDC5EHW.png" alt="喜欢" />✅ 一体化模式下主题效果更佳
 
