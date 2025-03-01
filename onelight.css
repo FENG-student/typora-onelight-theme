@@ -567,7 +567,7 @@ span#filesearch-case-option-btn:active {
 #write .ul>.li:not(.tab):hover:before,
 #write ul>li:not(.tab):hover:before {
     background-color: var(--main-red);
-    border-color: var(--focus-color)
+    border-color: transparent;
 }
 
 #write .ol>.li:before,
