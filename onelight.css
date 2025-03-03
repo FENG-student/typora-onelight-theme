@@ -141,19 +141,14 @@ body {
 #write h4:hover:before,
 #write h5:hover:before,
 #write h6:hover:before {
-    border-radius: 0;
+    line-height: 25px;
+    padding: 0 1px 0 1px;
     bottom: 0;
-    color: #166ff36e;
-    float: none;
+    color: #42a5f5ed;
     font-size: .9rem;
     font-variant: "small-caps";
-    font-weight: 700;
-    left: auto;
-    line-height: 20px;
-    padding: 0;
     position: absolute;
-    right: calc(100% + 10px);
-    vertical-align: baseline;
+    right: calc(100% + 3px);
 }
 
 #write h2 {
@@ -162,9 +157,8 @@ body {
 }
 
 #write h2 span {
-    color: #136ef7;
+    color: var(--main-blue);
     font-weight: 700;
-    padding: 3px 10px 1px
 }
 
 #write h3 {
