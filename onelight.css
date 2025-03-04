@@ -232,13 +232,18 @@ body {
     line-height: 26px
 }
 
-
-#write a {
+/* 链接 */
+a>span.md-plain,
+a.md-url {
     margin: 3px;
-    border-bottom: 2px solid var(--main-purple);
     color: var(--main-purple);
     font-weight: 700;
-    text-decoration: none
+    text-decoration: underline;
+}
+
+/* 目录项 */
+a.md-toc-inner {
+    color: var(--main-purple);
 }
 
 #write code {
@@ -420,10 +425,20 @@ pre[lang=sequence] {
     color: #333
 }
 
+/* 高亮 */
 mark {
-    background: #0070ff00;
+    margin-right: 2px;
+    margin-left: 2px;
+    border-radius: 10px;
+    padding: 2px 5px 2px 5px;
+    border: 1.5px solid;
+    background: transparent;
     color: var(--main-red);
-    font-weight: 700
+}
+
+/* 删除线 */
+del {
+    color: grey;
 }
 
 #write pre {
@@ -495,13 +510,7 @@ span#filesearch-case-option-btn:active {
     font-weight: 700
 }
 
-.cm-search-hit.CodeMirror-selectedtext,
-.md-search-hit.md-search-select,
-.md-search-select {
-    background: #ff0;
-    color: red;
-    font-weight: 700
-}
+
 
 .md-search-hit {
     background-color: hsla(0, 0%, 100%, .123);
@@ -782,7 +791,7 @@ div.md-alert.md-alert-warning * span[md-inline="plain"].md-plain {
     color: var(--warning-color);
 }
 
-*/ .md-blockmeta {
+.md-blockmeta {
     color: #777
 }
 
@@ -912,10 +921,18 @@ text {
     font-family: var(--main-font-family)
 }
 
+/* 高亮标签、搜索高亮 */
+.cm-search-hit.CodeMirror-selectedtext,
+.md-search-hit.md-search-select,
+.md-search-select,
 span[alt=highlight] {
+    margin-right: 2px;
+    margin-left: 2px;
+    border-radius: 10px;
+    padding: 2px 5px 2px 5px;
     background: #ff0;
     color: red;
-    font-weight: 700
+    box-shadow: var(--box-shadow);
 }
 
 

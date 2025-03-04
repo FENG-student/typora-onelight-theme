@@ -52,12 +52,11 @@
 
 <details><summary><kbd>展开查看更多截图</summary></kbd>
   <img src="https://s2.loli.net/2025/01/08/Ir1mgZCto4YS6lj.png"></br>
-  <img src="https://s2.loli.net/2025/01/08/ugxkC5UyvqGw6iP.png"></br>
+  <img src="https://s2.loli.net/2025/03/04/YzmsQOAFJ2UkpC7.png"></br>
   <img src="https://s2.loli.net/2025/01/08/cAgBOqFoCMYE8S6.png"></br>
 	一体化菜单界面
   <img src="https://s2.loli.net/2025/01/08/QF2UA9zPOW5X6ji.png"></br>
 </details>
-
 
 ---
 
