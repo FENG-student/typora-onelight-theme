@@ -9,10 +9,11 @@
 
 ![总下载量](https://img.shields.io/github/downloads/caolib/typora-onelight-theme/total?labelColor=grey&color=blue)
 [![最新发行版](https://img.shields.io/github/v/release/caolib/typora-onelight-theme?labelColor=grey&color=red)](https://github.com/caolib/typora-onelight-theme/releases)
-[![上次提交日期](https://img.shields.io/github/last-commit/caolib/typora-onelight-theme?labelColor=grey&color=blue)](https://github.com/caolib/typora-onelight-theme/activity)
+![GitHub Repo stars](https://img.shields.io/github/stars/caolib/typora-onelight-theme)
+![Issues](https://img.shields.io/github/issues/caolib/typora-onelight-theme?label=Issues)
+![Pull Requests](https://img.shields.io/github/issues-pr/caolib/typora-onelight-theme?label=PR)
+![GitHub last commit](https://img.shields.io/github/last-commit/caolib/typora-onelight-theme?label=%E4%B8%8A%E6%AC%A1%E6%8F%90%E4%BA%A4)
 [![网站部署状态](https://api.netlify.com/api/v1/badges/6ca72e1b-7dc6-4d51-8542-e07bf9ad0a88/deploy-status)](https://typora-theme.netlify.app)
-[![css压缩打包状态](https://github.com/caolib/typora-onelight-theme/actions/workflows/css-compress.yml/badge.svg)](https://github.com/caolib/typora-onelight-theme/actions/workflows/css-compress.yml)
-![Issues](https://img.shields.io/github/issues/caolib/typora-onelight-theme)
 
 <details><summary><kbd>历史版本</summary></kbd>
   <img src="https://img.shields.io/github/downloads/caolib/typora-onelight-theme/v1.4.3/total"></br>
@@ -38,9 +39,9 @@
 
 
 > [!tip]
-> **这里有两篇文章使用one-light主题，可点击查看主题详细效果展示**
+> **这里有两篇文章使用OneLight主题，可点击查看主题详细效果展示**
 >
-> - **[onelight](https://bin-sites.pages.dev/onelight)**
+> - **[OneLight](https://bin-sites.pages.dev/onelight)**
 > - **[计算机网络](https://bin-sites.pages.dev/net/计算机网络)**
 
 ---
@@ -95,7 +96,7 @@
 
 > [!important]
 >
-> 背景图片在`onelight/img`文件夹下，默认是`bg.gif`，可以自行替换,你也可以在css文件中搜索关键字 `gif` 找到对应代码进行替换，最好使用透明背景的图片
+> 背景图片在`onelight/img`文件夹下，默认是`bg.gif`，文件夹下有几张图片，你可以添加自己的图片（最好使用透明背景的图片），然后在css文件中搜索 `background-image` 找到下面代码替换图片
 >
 > ```css
 > content {
@@ -109,7 +110,7 @@
 > }
 > ```
 >
-> <img src="https://s2.loli.net/2024/12/15/Fn6LcrKWC2dlp1J.gif" alt="recording" style="zoom: 50%;" />
+> <img src="https://s2.loli.net/2025/03/05/7Ds8SCmvWnkwraM.png" style="zoom: 50%;" />
 
 ---
 
