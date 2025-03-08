@@ -534,7 +534,6 @@ span#filesearch-case-option-btn:active {
 
 #write .ul>.li:not(.tab):before,
 #write ul>li:not(.tab):before {
-    border: .1em solid var(--main-blue);
     border-radius: .31em;
     content: "";
     height: .62em;
@@ -738,6 +737,12 @@ div.md-alert.md-alert-tip * span[md-inline="plain"].md-plain {
     color: var(--tip-color);
 }
 
+.md-alert-tip li.md-list-item::before,
+.md-alert-tip ul li::before,
+.md-alert-tip ol li::before {
+    background: var(--tip-color) !important;
+}
+
 
 /* 批注 */
 .md-alert.md-alert-note {
@@ -749,6 +754,12 @@ div.md-alert.md-alert-tip * span[md-inline="plain"].md-plain {
 
 div.md-alert.md-alert-note * span[md-inline="plain"].md-plain {
     color: var(--note-color);
+}
+
+.md-alert-note li.md-list-item::before,
+.md-alert-note ul li::before,
+.md-alert-note ol li::before {
+    background: var(--note-color) !important;
 }
 
 /* 重要 */
@@ -763,6 +774,12 @@ div.md-alert.md-alert-important * span[md-inline="plain"].md-plain {
     color: var(--important-color);
 }
 
+.md-alert-important li.md-list-item::before,
+.md-alert-important ul li::before,
+.md-alert-important ol li::before {
+    background: var(--important-color) !important;
+}
+
 /* 注意 */
 .md-alert.md-alert-caution {
     border-bottom: var(--caution-border);
@@ -775,6 +792,12 @@ div.md-alert.md-alert-caution * span[md-inline="plain"].md-plain {
     color: var(--caution-color);
 }
 
+.md-alert-caution li.md-list-item::before,
+.md-alert-caution ul li::before,
+.md-alert-caution ol li::before {
+    background: var(--caution-color) !important;
+}
+
 /* 警告 */
 .md-alert.md-alert-warning {
     border-bottom: var(--warning-border);
@@ -785,6 +808,12 @@ div.md-alert.md-alert-caution * span[md-inline="plain"].md-plain {
 
 div.md-alert.md-alert-warning * span[md-inline="plain"].md-plain {
     color: var(--warning-color);
+}
+
+.md-alert-warning li.md-list-item::before,
+.md-alert-warning ul li::before,
+.md-alert-warning ol li::before {
+    background: var(--warning-color) !important;
 }
 
 .md-alert-text-warning {

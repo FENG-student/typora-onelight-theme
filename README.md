@@ -41,8 +41,8 @@
 > [!tip]
 > **这里有两篇文章使用OneLight主题，可点击查看主题详细效果展示**
 >
-> - **[OneLight](https://bin-sites.pages.dev/onelight)**
-> - **[计算机网络](https://bin-sites.pages.dev/net/计算机网络)**
+> 1. **[OneLight](https://bin-sites.pages.dev/onelight)**
+> 2. *[计算机网络](https://bin-sites.pages.dev/net/计算机网络)**
 
 ---
 
@@ -68,10 +68,10 @@
 
 > [!important]
 >
-> - 下载 [主题文件压缩包](https://github.com/caolib/typora-onelight-theme/releases)
->- 在typora中选择 文件 → 偏好设置 → 外观 → 打开主题文件夹
-> - 将下载的压缩包解压，将**css文件**和**文件夹**粘贴到typora的主题文件夹中
-> - 重启Typora然后在菜单栏切换主题，大功告成
+> 1. 下载 [主题文件压缩包](https://github.com/caolib/typora-onelight-theme/releases)
+>2. 在typora中选择 文件 → 偏好设置 → 外观 → 打开主题文件夹
+> 3. 将下载的压缩包解压，将**css文件**和**文件夹**粘贴到typora的主题文件夹中
+> 4. 重启Typora然后在菜单栏切换主题，大功告成
 
 ### 2.2 克隆
 
@@ -92,11 +92,11 @@
 
 ---
 
-## **4.关于背景图片**
+## **4.背景图片**
 
 > [!important]
 >
-> 背景图片在`onelight/img`文件夹下，默认是`bg.gif`，文件夹下有几张图片，你可以添加自己的图片（最好使用透明背景的图片），然后在css文件中搜索 `background-image` 找到下面代码替换图片
+> 背景图片在`onelight/img`文件夹下，默认是`bg.gif`，文件夹下有几张图片，你可以添加自己的图片（最好使用透明背景的图片），然后在css文件中搜索 `background-image`找到下面代码替换图片路径
 >
 > ```css
 > content {
@@ -116,15 +116,15 @@
 
 ## 5.其他
 
-<img align='right' src="https://s2.loli.net/2025/01/04/zt7O3daMLDC5EHW.png" alt="喜欢" />✅ 一体化模式下主题效果更佳
+<img align='right' src="https://s2.loli.net/2025/01/04/zt7O3daMLDC5EHW.png" alt="喜欢" />⭐ 如果喜欢主题的话，请给一个star吧，感谢🙏！
 
-❓ 有问题可以在 [Issues](https://github.com/caolib/typora-onelight-theme/issues) 提问
+✅ 一体化模式下主题效果更佳✨
 
-⭐ 如果喜欢主题的话，请给我一个star，谢谢！
+❓ 有问题可以在 [Issues](https://github.com/caolib/typora-onelight-theme/issues) 提问，欢迎各种意见
 
-📄 [docs](https://github.com/caolib/typora-onelight-theme/tree/onelight/docs) 文件夹中有示例文章的markdown文件
+📄 [docs](https://github.com/caolib/typora-onelight-theme/tree/onelight/docs)文件夹中有示例文章的markdown文件📄
 
-🖼️ [img](https://github.com/caolib/typora-onelight-theme/tree/onelight/onelight/img) 文件夹中有主题的背景图片，你可以替换成你喜欢的任何图片，如果不需要可以直接删除
+🖼️ [img](https://github.com/caolib/typora-onelight-theme/tree/onelight/onelight/img)文件夹中有主题的背景图片，如果不需要可以直接删除
 
 
 
