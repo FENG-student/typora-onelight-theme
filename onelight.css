@@ -441,10 +441,13 @@ del {
     color: grey;
 }
 
+/* 代码块 */
 #write pre {
     background: var(--code-bg-color);
     font-family: var(--main-font-family)
 }
+
+
 
 .CodeMirror-selected,
 .CodeMirror-selectedtext {
@@ -1107,10 +1110,6 @@ ul#megamenu-menu-list {
 }
 
 /* mermaid */
-.md-diagram-panel.md-fences-adv-panel {
-    backdrop-filter: blur(20px);
-}
-
 .md-diagram-panel.md-fences-adv-panel:hover {
     backdrop-filter: blur(50px);
 }
