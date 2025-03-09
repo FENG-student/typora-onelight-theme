@@ -6,15 +6,19 @@
     <a href="https://github.com/caolib/typora-onelight-theme/blob/onelight/docs/README_en.md">English</a>
 </p>
 
-
-![总下载量](https://img.shields.io/github/downloads/caolib/typora-onelight-theme/total?labelColor=grey&color=blue)
-[![最新发行版](https://img.shields.io/github/v/release/caolib/typora-onelight-theme?labelColor=grey&color=red)](https://github.com/caolib/typora-onelight-theme/releases)
-![GitHub License](https://img.shields.io/github/license/caolib/typora-onelight-theme)
-![GitHub Repo stars](https://img.shields.io/github/stars/caolib/typora-onelight-theme)
-![Issues](https://img.shields.io/github/issues/caolib/typora-onelight-theme?label=Issues)
 <!-- ![Pull Requests](https://img.shields.io/github/issues-pr/caolib/typora-onelight-theme?label=PR) -->
-![GitHub last commit](https://img.shields.io/github/last-commit/caolib/typora-onelight-theme?label=%E4%B8%8A%E6%AC%A1%E6%8F%90%E4%BA%A4)
-[![网站部署状态](https://api.netlify.com/api/v1/badges/6ca72e1b-7dc6-4d51-8542-e07bf9ad0a88/deploy-status)](https://typora-theme.netlify.app)
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/caolib/typora-onelight-theme/total?labelColor=grey&color=blue" alt="Downloads">
+  <img src="https://img.shields.io/github/v/release/caolib/typora-onelight-theme?labelColor=grey&color=red" alt="Release">
+  <img src="https://img.shields.io/github/license/caolib/typora-onelight-theme" alt="License">
+  <img src="https://img.shields.io/github/stars/caolib/typora-onelight-theme" alt="Stars">
+  <img src="https://img.shields.io/github/issues/caolib/typora-onelight-theme?label=Issues" alt="Issues">
+  <img src="https://img.shields.io/github/last-commit/caolib/typora-onelight-theme?label=%E4%B8%8A%E6%AC%A1%E6%8F%90%E4%BA%A4" alt="Last Commit">
+  <a href="https://typora-theme.netlify.app">
+    <img src="https://api.netlify.com/api/v1/badges/6ca72e1b-7dc6-4d51-8542-e07bf9ad0a88/deploy-status" alt="Netlify Status">
+  </a>
+</p>
 
 <details><summary><kbd>历史版本</summary></kbd>
   <img src="https://img.shields.io/github/downloads/caolib/typora-onelight-theme/v1.4.3/total"></br>
