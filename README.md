@@ -9,6 +9,7 @@
 
 ![总下载量](https://img.shields.io/github/downloads/caolib/typora-onelight-theme/total?labelColor=grey&color=blue)
 [![最新发行版](https://img.shields.io/github/v/release/caolib/typora-onelight-theme?labelColor=grey&color=red)](https://github.com/caolib/typora-onelight-theme/releases)
+![GitHub License](https://img.shields.io/github/license/caolib/typora-onelight-theme)
 ![GitHub Repo stars](https://img.shields.io/github/stars/caolib/typora-onelight-theme)
 ![Issues](https://img.shields.io/github/issues/caolib/typora-onelight-theme?label=Issues)
 ![Pull Requests](https://img.shields.io/github/issues-pr/caolib/typora-onelight-theme?label=PR)
