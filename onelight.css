@@ -620,7 +620,6 @@ kbd {
 /* 目录 */
 p.md-toc-content {
     background: var(--gradient-color);
-    backdrop-filter: blur(5px);
     border-radius: 10px;
     box-shadow: var(--box-shadow)
 }
@@ -629,6 +628,23 @@ p.md-toc-content:hover {
     background: #fff;
 }
 
+/* 底部状态栏*/
+#footer-word-count:hover,
+.ty-show-spell-check #footer-spell-check,
+.ty-show-word-count #footer-word-count {
+    background: #eee;
+    color: var(--main-blue);
+}
+
+.footer-item:hover,
+.sidebar-footer-item:hover {
+    color: var(--main-blue);
+}
+
+/* 显示/隐藏侧边栏 */
+#outline-btn:hover {
+    color: var(--main-blue)
+}
 
 
 #write>pre.md-meta-block.md-end-block {
@@ -1163,7 +1179,7 @@ pre.CodeMirror-line>span {
 
 /* 滚动条 */
 ::-webkit-scrollbar {
-    width: 5px;
+    width: 10px;
     height: 5px;
 }
 
@@ -1173,7 +1189,7 @@ pre.CodeMirror-line>span {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: rgba(0, 0, 0, .2);
+    background: rgba(0, 0, 0, .1);
     width: 10px
 }
 
