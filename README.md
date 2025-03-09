@@ -12,7 +12,7 @@
 ![GitHub License](https://img.shields.io/github/license/caolib/typora-onelight-theme)
 ![GitHub Repo stars](https://img.shields.io/github/stars/caolib/typora-onelight-theme)
 ![Issues](https://img.shields.io/github/issues/caolib/typora-onelight-theme?label=Issues)
-![Pull Requests](https://img.shields.io/github/issues-pr/caolib/typora-onelight-theme?label=PR)
+<!-- ![Pull Requests](https://img.shields.io/github/issues-pr/caolib/typora-onelight-theme?label=PR) -->
 ![GitHub last commit](https://img.shields.io/github/last-commit/caolib/typora-onelight-theme?label=%E4%B8%8A%E6%AC%A1%E6%8F%90%E4%BA%A4)
 [![网站部署状态](https://api.netlify.com/api/v1/badges/6ca72e1b-7dc6-4d51-8542-e07bf9ad0a88/deploy-status)](https://typora-theme.netlify.app)
 
