@@ -94,7 +94,8 @@ body {
     margin-top: 3px;
 }
 
-#write p:hover {
+/* 仅在 <p> 标签不包含图片时应用悬停效果 */
+#write p:not(:has(.md-image)):hover {
     box-shadow: var(--box-shadow);
     border-radius: 10px;
     background: white;
@@ -561,7 +562,6 @@ span#filesearch-case-option-btn:active {
     color: var(--olfore-color);
     cursor: pointer;
     position: absolute;
-    transition: all .3s ease-out
 }
 
 #write .ol .li:first-child,
