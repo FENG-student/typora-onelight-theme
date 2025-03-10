@@ -13,6 +13,7 @@
 }
 
 :root {
+    --select-text-font-color: inherit !important;
     --bg-color: #f2f2f2;
     --code-bg-color: #282c34;
     --text-color: #333;
@@ -97,6 +98,7 @@ body {
     box-shadow: var(--box-shadow);
     border-radius: 10px;
     background: white;
+    width: fit-content;
 }
 
 #write input[type=checkbox] {
@@ -453,13 +455,13 @@ del {
 }
 
 
-
+/* 代码块选中 */
 .CodeMirror-selected,
 .CodeMirror-selectedtext {
-    background: hsla(0, 100%, 75%, .1) !important;
-    color: inherit !important;
-    text-shadow: none
+    color: white !important;
+    background: #3266D0 !important;
 }
+
 
 .md-fences-adv-panel,
 .md-math-container,
