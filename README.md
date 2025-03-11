@@ -6,8 +6,6 @@
     <a href="https://github.com/caolib/typora-onelight-theme/blob/onelight/docs/README_en.md">English</a>
 </p>
 
-<!-- ![Pull Requests](https://img.shields.io/github/issues-pr/caolib/typora-onelight-theme?label=PR) -->
-
 <p align="center">
   <img src="https://img.shields.io/github/downloads/caolib/typora-onelight-theme/total?labelColor=grey&color=blue" alt="Downloads">
   <img src="https://img.shields.io/github/v/release/caolib/typora-onelight-theme?labelColor=grey&color=red" alt="Release">
@@ -21,8 +19,6 @@
 </p>
 
 
-
----
 
 ## **1.概览**
 
