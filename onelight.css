@@ -102,6 +102,12 @@ body {
     width: fit-content;
 }
 
+
+
+#write p[align="center"]:hover {
+    width: inherit;
+}
+
 #write input[type=checkbox] {
     left: -3px;
     margin-right: 5px;
