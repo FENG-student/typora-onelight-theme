@@ -101,7 +101,7 @@
 
 > [!important]
 >
-> 背景图片在`onelight/img`文件夹下，默认是`bg.gif`，文件夹下有几张图片，你可以添加自己的图片（最好使用透明背景的图片），然后在css文件中搜索 `background-image`找到下面代码替换图片路径
+> 背景图片在`onelight/img`文件夹下，文件夹下有几张准备好的图片，你也可以添加自己的图片（最好使用透明背景的图片），然后在css文件中搜索 `background-image`找到下面代码替换图片路径
 >
 > ```css
 > content {
