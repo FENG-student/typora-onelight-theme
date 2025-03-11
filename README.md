@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+<img src="onelight/img/img.png">
   <img src="https://img.shields.io/github/downloads/caolib/typora-onelight-theme/total?labelColor=grey&color=blue" alt="Downloads">
   <img src="https://img.shields.io/github/v/release/caolib/typora-onelight-theme?labelColor=grey&color=red" alt="Release">
   <img src="https://img.shields.io/github/license/caolib/typora-onelight-theme" alt="License">
@@ -18,10 +19,7 @@
   </a>
 </p>
 
-
-
 ## **1.概览**
-
 
 > [!tip]
 > **这里有两篇文章使用OneLight主题，可点击查看主题详细效果展示**
@@ -72,7 +70,9 @@
 
 ## **3.关于字体**
 
-在`onelight.css`文件开头设置了默认字体，可以自行修改，字体文件在[fonts](https://github.com/caolib/typora-onelight-theme/tree/onelight/onelight/fonts)文件夹下
+在`onelight.css`
+文件开头设置了默认字体，可以自行修改，字体文件在[fonts](https://github.com/caolib/typora-onelight-theme/tree/onelight/onelight/fonts)
+文件夹下
 ![](https://github.com/user-attachments/assets/ab75260f-cff0-43b7-b8e5-dfea38e8525c)
 
 ---
@@ -81,7 +81,8 @@
 
 > [!important]
 >
-> 背景图片在`onelight/img`文件夹下，文件夹下有几张准备好的图片，你也可以添加自己的图片（最好使用透明背景的图片），然后在css文件中搜索 `background-image`找到下面代码替换图片路径
+> 背景图片在`onelight/img`文件夹下，文件夹下有几张准备好的图片，你也可以添加自己的图片（最好使用透明背景的图片），然后在css文件中搜索
+`background-image`找到下面代码替换图片路径
 >
 > ```css
 > content {
