@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-<img src="onelight/img/img.png">
   <img src="https://img.shields.io/github/downloads/caolib/typora-onelight-theme/total?labelColor=grey&color=blue" alt="Downloads">
   <img src="https://img.shields.io/github/v/release/caolib/typora-onelight-theme?labelColor=grey&color=red" alt="Release">
   <img src="https://img.shields.io/github/license/caolib/typora-onelight-theme" alt="License">
@@ -29,6 +28,7 @@
 
 ---
 
+![image-20250108140354139](onelight/img/img.png)
 ![image-20250108140354139](https://s2.loli.net/2025/01/08/fNQF1ZCOgGydEUL.png)
 
 ![image-20250108140529374](https://s2.loli.net/2025/01/08/aMkKwdmVuTCtW4G.png)
